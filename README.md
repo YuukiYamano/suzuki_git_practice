@@ -13,5 +13,8 @@ suzukiブランチを作成して7/9の日報を提出
 suzukiブランチを作成して7/10の日報を提出
 その後、mainにsuzukiブランチをmerge（プルリクエストを作成）
 
+## ファイル名
+yyyymmdd_suzuki.txt
+
 ## その他
 毎朝mainをpullしてくださいね
